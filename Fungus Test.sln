@@ -1,0 +1,29 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{9F38911C-9F4D-15C3-FF12-E96D3EF22427}") = "Fungus Test", "Assembly-CSharp.csproj", "{10B2AB75-3D5E-993B-44B0-E74083A19E83}"
+EndProject
+Project("{9F38911C-9F4D-15C3-FF12-E96D3EF22427}") = "Fungus Test", "Assembly-CSharp-Editor.csproj", "{7B643C99-A0C8-872A-3921-73F4C2EE6A2B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{10B2AB75-3D5E-993B-44B0-E74083A19E83}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{10B2AB75-3D5E-993B-44B0-E74083A19E83}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{10B2AB75-3D5E-993B-44B0-E74083A19E83}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{10B2AB75-3D5E-993B-44B0-E74083A19E83}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7B643C99-A0C8-872A-3921-73F4C2EE6A2B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7B643C99-A0C8-872A-3921-73F4C2EE6A2B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7B643C99-A0C8-872A-3921-73F4C2EE6A2B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7B643C99-A0C8-872A-3921-73F4C2EE6A2B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
